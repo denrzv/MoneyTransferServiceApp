@@ -1,4 +1,4 @@
-# Money Service API
+# Money Transfer Service App
 
 ### Документация по сервису
 
